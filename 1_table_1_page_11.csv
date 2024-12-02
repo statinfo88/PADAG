@@ -1,0 +1,31 @@
+,Variable Iruplinalkib Group,"Rate Difference
+CrizotinibGroup (95% CI)"
+,ITTpopulation,
+,Numberofpatients 143,149
+,"Objectiveresponse,n(%)",
+,PR 133(93.0),133(89.3)
+,"ORR,n(%) 133(93.0)","133(89.3) 3.7((cid:3)3.0to10.6),p¼0.2694"
+,95%CI 87.5–96.6,83.1–93.7
+,"SD,an(%) 5(3.5)",9(6.0)
+,"DoR,mo,median(95%CI) 26.8(25.8–NE)",12.9(11.0–14.7)
+,"24-moDoRrate,%(95%CI) 61.5(51.4–70.1)",21.3(13.5–30.2)
+,"Timetoobjectiveresponse,mo, 1.8(0.5–11.1)
+median(range)",1.8(0.9–9.1)
+,Intracranialefficacy,
+,"PatientswithmeasurableCNS
+metastasesatbaseline,assessedbyIRC",
+,Numberofpatients 11,15
+,"Intracranialobjectiveresponse,n(%)",
+,PR 10(90.9),9(60.0)
+,"IntracranialORR,n(%) 10(90.9)","9(60.0) 30.9((cid:3)4.9to58.5),p¼0.0974"
+,95%CI 58.7–99.8,32.3–83.7
+,"IntracranialDoR,mo,median(95%CI) 20.1(7.3–NE)",9.3(3.7–NE)
+,"PatientswithanyCNSmetastasesat
+baseline,assessedbyIRC",
+,Numberofpatients 38,39
+,"Intracranialobjectiveresponse,n(%)",
+,CR 12(31.6),1(2.6)
+,PR 10(26.3),9(23.1)
+,"IntracranialORR,n(%) 22(57.9)","10(25.6) 32.3(10.2–51.4),p¼0.0033"
+,95%CI 40.8–73.7,13.0–42.1
+,"IntracranialDoR,mo,median(95%CI) 23.8(9.2–NE)",9.3(3.7–NE)
